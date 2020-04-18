@@ -1,1 +1,1 @@
-![link to my personal website](https://vhscodes.neocities.org/)
+[my neocities](https://vhscodes.neocities.org/)
